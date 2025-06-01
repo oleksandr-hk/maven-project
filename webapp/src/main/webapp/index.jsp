@@ -1,2 +1,1 @@
-Hello, dear World!
-Version 2!
+Hello, dear World! Version 2!
