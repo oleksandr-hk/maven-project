@@ -13,5 +13,10 @@ pipeline {
                 }
             }
         }
+        stage('Debug') {
+            steps {
+                sh 'env && which mvn && mvn -v'
+            }
+        }
     }
 }
