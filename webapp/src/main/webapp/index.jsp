@@ -1,1 +1,1 @@
-Heil Henrich, dear SS! Version 7!
+Heil Henrich Himmler, dear SS chief!
